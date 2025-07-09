@@ -1,8 +1,5 @@
-# HealthTimeSeriesAI
+# Setup Instructions
 
-A Python framework for multivariate time series analysis in healthcare.
-
-## Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/victordeman/HealthTimeSeriesAI.git

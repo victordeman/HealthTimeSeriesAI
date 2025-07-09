@@ -1,6 +1,6 @@
 # HealthTimeSeriesAI
 
-A Python framework for multivariate time series analysis in healthcare.
+A Python framework for multivariate time series analysis in healthcare. If you have trouble implementing of deploying the code, mail me. Afterwards, buy me a drink
 
 ## Setup
 1. Clone the repository:
